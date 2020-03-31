@@ -1,7 +1,7 @@
 ﻿using System;
 using GameTOP.lib;
 
-namespace gameTOP
+namespace GameTOP
 {
     class Program
     {

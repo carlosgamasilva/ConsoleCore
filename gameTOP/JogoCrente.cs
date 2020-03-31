@@ -1,6 +1,6 @@
 ﻿using GameTOP.Interface;
 
-namespace gameTOP
+namespace GameTOP
 {
     class JogoCrente
     {
